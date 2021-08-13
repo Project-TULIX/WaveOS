@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" src="TULIX.png" alt="TULIX">
+  <img width="500" src="https://raw.githubusercontent.com/Project-TULIX/ArrowOS/main/TULIX.png" alt="TULIX">
 </p>
 
 <h1 align="center">Project TULIX</h1>

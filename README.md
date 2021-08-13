@@ -16,7 +16,7 @@ sudo apt install wget -y && sudo wget https://github.com/Project-TULIX/WaveOS/Wa
 
 <h3 align="center">Credits</h3>
 
-- <a href="https://github.com/arturo51236">Arturo</a> - TULIX Trees
+- <a href="https://github.com/muti605">Mustafa</a> - TULIX Trees
 - <a href="https://github.com/IceBreaker2451">Nischay</a> - Team Helper.
 - <a href="https://github.com/okta-10">Okta</a> - Kernel
 - <a href="https://github.com/AOSP-11">AOSP-11</a> - Blobs
